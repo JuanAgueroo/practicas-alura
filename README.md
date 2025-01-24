@@ -5,3 +5,5 @@
 Para Ejecutar el sistema debes poner : 
 
 npm install react 
+
+-Practicando git con alura
